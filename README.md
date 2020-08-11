@@ -9,6 +9,6 @@ A "normal link" is a link from the main page article, not in a box, is blue (red
  <li>The second code filters angular and square brackets using RegEx</li>
  
  
- </ul
+ </ul>
  
  # Working on more efficient code with scrapy that will be added !
