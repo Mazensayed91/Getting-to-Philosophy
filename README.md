@@ -11,4 +11,4 @@ A "normal link" is a link from the main page article, not in a box, is blue (red
  
  </ul>
  
- # Working on more efficient code with scrapy that will be added !
+ # Working on more efficient code with scrapy that will be added soon!
